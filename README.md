@@ -1,6 +1,6 @@
 ### Hi, I'm Natasha 👋
 
-I am Natasha, an AEC (Architectural, engineering and construction) professional who is interested in Coding. My Github will host a variety of content from Dynamo scripts to apps. I am interested in collaborating on projects with other code enthusiast, with the hope of improving on my skills and helping others along the way. Feel free to reach out to me on Twitter or Linkedin. <a href="https://www.linkedin.com/in/natasha-newbold/">LinkedIn</a>
+An AEC (Architectural, engineering and construction) professional who is interested in Coding. 
 
 ### About Me:
 
