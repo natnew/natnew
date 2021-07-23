@@ -10,7 +10,7 @@ An AEC (Architectural, engineering and construction) professional who is interes
 - 🤔 I’m looking for help with digital architectural, engineering and Construction projects
 - 💬 Ask me about BIM (Building Information Modeling) and Digital Twins
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact I started learning how to play chess at 6 years old. 
+- ⚡ Fun fact: I started learning how to play chess at 6 years old. 
 
 
 ### Find Me:
