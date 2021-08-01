@@ -1,6 +1,6 @@
 ### Hi, I'm Natasha 👋
 
-An AEC (Architectural, engineering and construction) professional who is interested in Coding. 
+An AEC (***Architectural, engineering and construction***) professional who is interested in Coding. 
 
 ### About Me:
 
