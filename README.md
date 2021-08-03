@@ -14,14 +14,14 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 
 
 ### Find Me:
-- Playing with code on <a href="https://github.com/natnew"> Github</a> 🏓
+- Contributing to open source on <a href="https://github.com/natnew"> Github</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/natasha-newbold/">LinkedIn</a> 💼
 - Inspiring others on <a href="https://twitter.com/NatashaTweets2">Twitter</a> 🐦
 
 
 
 ### My Skills 🚀
-`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management` `Azure` `Data Analysis` `Data Visualisation`  `R` `Github Apps` `CI` 
+`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management` `Azure` `Data Analysis` `Data Visualisation`  `R` `Github Apps` `CI` `Blockchain` `Kubernetes` 
 
 
 ### CPD
