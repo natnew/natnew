@@ -27,3 +27,4 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 ### CPD
 <a href="https://github.com/natnew/CPD/blob/master/README.md">Continuous Professional Development</a>
 
+[![natnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
