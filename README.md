@@ -2,6 +2,8 @@
 
 An AEC (***Architectural, engineering and construction***) professional who is interested in Coding. 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
+
 ### About Me:
 
 - 🔭 I’m currently working on Apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
@@ -28,6 +30,14 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 <a href="https://github.com/natnew/CPD/blob/master/README.md">Continuous Professional Development</a>
 
 ### Github Stats:
-[![natnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnew)](https://github.com/natnew/github-readme-stats)
+[![natnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnew)](https://github.com/natnew/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnew)](https://github.com/natnew/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnew)](https://github.com/natnew/github-readme-stats) 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnew&show_icons=true&locale=en&layout=compact" alt="natnew" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&" alt="natnew" /></p>
+
