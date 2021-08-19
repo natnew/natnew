@@ -33,9 +33,5 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnew)](https://github.com/natnew/github-readme-stats) 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnew&show_icons=true&locale=en&layout=compact" alt="natnew" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&" alt="natnew" /></p>
 
