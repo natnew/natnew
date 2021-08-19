@@ -30,8 +30,6 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 <a href="https://github.com/natnew/CPD/blob/master/README.md">Continuous Professional Development</a>
 
 ### Github Stats:
-[![natnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnew)](https://github.com/natnew/github-readme-stats) 
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnew)](https://github.com/natnew/github-readme-stats) 
 
