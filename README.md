@@ -1,6 +1,6 @@
 ### Hi, I'm Natasha 👋
 
-An AEC (***Architectural, engineering and construction***) professional who is interested in Coding. 
+An AEC (***Architectural, engineering and construction***) professional who is interested in coding. 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
 
