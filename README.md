@@ -6,7 +6,7 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 
 ### About Me:
 
-- 🔭 I’m currently working on Apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
+- 🔭 I’m currently working on apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
 - 🌱 I’m currently learning Python, JavaScript, C#, SQL, Azure
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with digital architectural, engineering and Construction projects
