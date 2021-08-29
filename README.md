@@ -23,7 +23,7 @@ An AEC (***Architectural, engineering and construction***) professional who is i
 
 
 ### My Skills: 🚀
-`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management` `Azure` `Data Analysis` `Data Visualisation`  `R` `Github Apps` `CI` `Blockchain` `Kubernetes` 
+`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management` `Azure` `Data Analysis` `Data Visualisation`  `R` `Github Apps` `CI` `Blockchain` `Kubernetes` `Data clustering/classification techniques` `DAX` `PowerBI`
 
 
 ### CPD:
