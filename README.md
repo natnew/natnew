@@ -15,7 +15,7 @@
 ### Find Me:
 - Contributing to open source on <a href="https://github.com/natnew"> Github</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/natasha-newbold/">LinkedIn</a> 💼
-- Inspiring others on <a href="https://twitter.com/NatashaTweets2">Twitter</a> 🐦
+
 
 
 
