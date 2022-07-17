@@ -1,5 +1,11 @@
 ### Hi, I'm Natasha 👋
 
+[![HitCount](http://hits.dwyl.com/natnew/natnew.svg)](http://hits.dwyl.com/natnew/natnew) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrrs)
+
+<!--
+**natnew/natnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
 
 ### About Me:
