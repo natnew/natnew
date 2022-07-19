@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&" alt="natnew" /></p>
 
-[![HitCount](http://hits.dwyl.com/natnew/natnew.svg)](http://hits.dwyl.com/natnew/natnew) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrrs)
+[![HitCount](http://hits.dwyl.com/natnew/natnew.svg)](http://hits.dwyl.com/natnew/natnew)
 
 <!--
 **natnew/natnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
