@@ -4,12 +4,10 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
-- 🌱 I’m currently learning Python, JavaScript, C#, SQL, Azure
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with digital architectural, engineering and construction projects
-- 💬 Ask me about BIM (Building Information Modelling) and Digital Twins
-- 😄 Pronouns: She/Her
+- 🔭 At the moment, I am involved in working on projects related to AI.
+- 🌱 I’m currently learning Python, JavaScript, C#, SQL, Azure.
+- 👯 I’m looking to collaborate on AI LLM projects.
+- 😄 Pronouns: She/Her.
 
 
 ### Find Me:
