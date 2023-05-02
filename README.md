@@ -4,7 +4,7 @@
 
 ### About Me:
 
-- 🔭 At the moment, I am involved in working on projects related to AI.
+- 🔭 At the moment, I am working on projects related to AI.
 - 🌱 I’m currently learning Python, JavaScript, C#, SQL, Azure.
 - 👯 I’m looking to collaborate on AI LLM projects.
 - 😄 Pronouns: She/Her.
