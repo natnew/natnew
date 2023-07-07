@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=100&lines=Natasha+Newbold;Research+Scientist+%7C+Machine+Learning+Engineer%7C;AI+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
+
 ### Hi, I'm Natasha 👋
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
