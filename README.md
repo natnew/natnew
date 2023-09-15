@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
 
-### About Me:
+### About Me: Google Developer Expert (GDE) ML 🤖 | Women Techmakers Ambassador 🚀 
 <details open>
   <summary> 🔦 All About Me: </summary>
 - 🔭 At the moment, I am working on projects related to AI. <br>
