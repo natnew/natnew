@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=800&height=100&lines=Natasha+Newbold;Research+Scientist+%7C+Machine+Learning+Engineer%7C;AI+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
 
+<img align="left" width="150" height="150" src="https://github.com/natnew/natnew/blob/main/octocat-Newbold-2023.png" alt="kedasha's instagram page @itsthatladydev">
+
 ### Hi, I'm Natasha 👋
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
@@ -63,18 +65,6 @@
      </tr>
   </table>
 </details>
-
-### GitHub Stats
-<details open>
-  <summary> 🔦 Stats: </summary>
-<div align="center">
-  
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=natnew&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical&custom_title=Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
-  |---|---|
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natnew&theme=radical" /></a> |  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=natnew&theme=radical&utcOffset=0"></a> |
- 
-</details>
-
 
 ### My Skills: 🚀
 <details open>
