@@ -39,6 +39,10 @@
   </table>
 </details>
 
+- [Microsoft-AI-Playbook](https://github.com/natnew/Microsoft-AI-Playbook)
+- [Prompt-engineering-strapp.streamlit](https://prompt-engineering-strapp.streamlit.app/)
+- [Conspiracy Generator](https://conspiracy-generation.streamlit.app/)
+
 ### Find Me:
 <details open>
   <summary> 🔦 Profiles: </summary>
