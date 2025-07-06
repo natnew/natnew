@@ -26,7 +26,7 @@
     </g>
     <g opacity="0">
         <rect x="70" y="262" rx="15" ry="15" width="680" height="48" fill="#eeeeee" />
-        <text x="85" y="293.68" fill="#202020" font-family="Helvetica, Arial, sans-serif" font-size="20px">Connect with me on LinkedIn: https://www.linkedin.com/in/natasha-newbold/</text>
+        <text x="85" y="293.68" fill="#202020" font-family="Helvetica, Arial, sans-serif" font-size="20px">Connect with me on LinkedIn: www.linkedin.com/in/natasha-newbold/</text>
         <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.8s" fill="freeze" />
     </g>
 </svg>
