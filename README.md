@@ -1,4 +1,4 @@
-### 🗨️ Meet Natasha
+
 
 [![](https://raw.githubusercontent.com/natnew/natnew/main/chat.svg)](https://twitter.com/natashanewbold)
 
@@ -6,13 +6,46 @@
 ### Hi, I'm Natasha 👋
 
 
-### About Me: Google Developer Expert (GDE) ML 🤖 | Women Techmakers Ambassador 🚀 
-<details open>
-  <summary> 🔦 All About Me: </summary>
-- 🔭 At the moment, I am working on projects related to AI. <br>
-- 🌱 I’m currently learning Python, JavaScript, C#, SQL, Azure. <br>
-- 👯 I’m looking to collaborate on AI LLM projects. <br>
-</details>
+#### AI for Science · Agentic Systems · Responsible & Embodied AI · Research & Engineering 🚀
+
+I design and evaluate advanced AI systems for scientific reasoning, experimentation, and decision-making in complex, high-uncertainty research and engineering environments.
+
+## 🔬 What I Build
+
+My work focuses on **agentic architectures** — multi-agent and self-evolving systems — using frontier models and tooling such as Gemini, OpenAI, and Claude, alongside modern orchestration frameworks. I build systems that reason with tools, collaborate, critique outcomes, and adapt over time under distributional shift.
+
+I am increasingly focused on **embodied and physical AI**, exploring how agentic reasoning extends beyond software into systems that perceive, act, and learn in the physical world.
+
+I treat **responsibility as a first-class systems constraint**, embedding safety, evaluation, and governance directly into architecture through Red Teaming and ethics-by-design.
+
+My focus is **AI as scientific infrastructure**: robust, transparent systems designed to operate reliably at the frontier of capability.
+
+---
+
+## 🛠️ Technical Focus
+
+**Frontier Models & Platforms**  
+Gemini · OpenAI · Claude · MCP 
+
+**Agent Orchestration**  
+LangGraph · CrewAI · AutoGen · Semantic Kernel · ADK
+
+**Safety, Evaluation & Governance**  
+Red Teaming · Guardrails AI · NeMo Guardrails · Inspect AI 
+
+**Embodied & Physical AI**  
+Robotics simulation · Sensor fusion · Real-world deployment patterns
+
+**Core Stack**  
+Python · PyTorch · TensorFlow · Scikit-learn · Pandas
+
+---
+
+## 🚀 Featured Projects
+
+*Coming soon — end-to-end AI projects demonstrating agentic systems for scientific reasoning and experimentation.*
+
+---
 
 ### Projects Open for Contribution
 <details open>
@@ -24,12 +57,12 @@
 | [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Generative-AI?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
 | [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-scientists?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
 | [Awesome-Robotics-AI](https://github.com/natnew/awesome-robotics-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Stars](https://img.shields.io/github/stars/natnew/awesome-robotics-ai?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-robotics-ai?style=flat-square) |
-| 
+
 
 </details>
 
 
-Other Projects:
+Other Projects Open for Contribution:
 - [Prompt-engineering](https://prompt-engineering-strapp.streamlit.app/)
 - [Conspiracy Generator](https://conspiracy-generation.streamlit.app/)
 
