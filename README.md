@@ -5,7 +5,7 @@
 
 ### Hi, I'm Natasha 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="jnatnew" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="natnew" /></a> </p>
 
 ### About Me: Google Developer Expert (GDE) ML 🤖 | Women Techmakers Ambassador 🚀 
 <details open>
@@ -13,34 +13,24 @@
 - 🔭 At the moment, I am working on projects related to AI. <br>
 - 🌱 I’m currently learning Python, JavaScript, C#, SQL, Azure. <br>
 - 👯 I’m looking to collaborate on AI LLM projects. <br>
-- 😄 Pronouns: She/Her. <br>
 </details>
 
 ### Projects Open for Contribution
 <details open>
   <summary> 🔦 Contributors Welcome: </summary>
-   <table>
-     <tr>
-  <td rowspan="2" ><a href="https://github.com/natnew/Awesome-Prompt-Engineering">  Awesome-Prompt-Engineering </a></td>     
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> ⭐ Stars</a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> 🍴 Forks</a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> 🔔 Open PRs</a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> 🔕 Close PRs</a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> 👨‍💻 Total Languages</</a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> 👨‍💻 Contributors</</a></td>
-    </tr>
-    <tr>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/natnew/Awesome-Prompt-Engineering"> </a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/natnew/Awesome-Prompt-Engineering"></a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> <img alt="GitHub open issues" src="https://img.shields.io/github/issues-raw/natnew/Awesome-Prompt-Engineering"></a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/natnew/Awesome-Prompt-Engineering"></a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/natnew/Awesome-Prompt-Engineering"></</a></td>
-  <td><a href="https://github.com/natnew/Awesome-Prompt-Engineering"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/natnew/Awesome-Prompt-Engineering"></</a></td>   
-    </tr>
-  </table>
+
+| Repository | Description | Stars | Forks |
+|------------|-------------|-------|-------|
+| [Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) | A curated collection of prompt engineering resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Prompt-Engineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Prompt-Engineering?style=flat-square) |
+| [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Generative-AI?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
+| [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-scientists?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
+| [Awesome-Robotics-AI](https://github.com/natnew/awesome-robotics-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Stars](https://img.shields.io/github/stars/natnew/awesome-robotics-ai?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-robotics-ai?style=flat-square) |
+| [Microsoft-AI-Playbook](https://github.com/natnew/Microsoft-AI-Playbook) | Microsoft AI resources and guides | ![Stars](https://img.shields.io/github/stars/natnew/Microsoft-AI-Playbook?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Microsoft-AI-Playbook?style=flat-square) |
+
 </details>
 
-- [Microsoft-AI-Playbook](https://github.com/natnew/Microsoft-AI-Playbook)
+
+Other Projects:
 - [Prompt-engineering](https://prompt-engineering-strapp.streamlit.app/)
 - [Conspiracy Generator](https://conspiracy-generation.streamlit.app/)
 
@@ -92,11 +82,15 @@
 
 ### Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnew)](https://github.com/natnew/github-readme-stats) 
+<a href="https://github.com/natnew">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnew&layout=compact&langs_count=8&theme=default" alt="Top Languages"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&" alt="natnew" /></p>
+<a href="https://github.com/natnew">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&theme=default" alt="GitHub Streak"/>
+</a>
 
-[![HitCount](http://hits.dwyl.com/natnew/natnew.svg)](http://hits.dwyl.com/natnew/natnew)
+
 
 <!--
 **natnew/natnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
