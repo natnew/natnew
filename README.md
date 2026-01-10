@@ -5,7 +5,6 @@
 
 ### Hi, I'm Natasha 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnew" alt="natnew" /></a> </p>
 
 ### About Me: Google Developer Expert (GDE) ML 🤖 | Women Techmakers Ambassador 🚀 
 <details open>
@@ -25,7 +24,7 @@
 | [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Generative-AI?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
 | [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-scientists?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
 | [Awesome-Robotics-AI](https://github.com/natnew/awesome-robotics-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Stars](https://img.shields.io/github/stars/natnew/awesome-robotics-ai?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-robotics-ai?style=flat-square) |
-| [Microsoft-AI-Playbook](https://github.com/natnew/Microsoft-AI-Playbook) | Microsoft AI resources and guides | ![Stars](https://img.shields.io/github/stars/natnew/Microsoft-AI-Playbook?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Microsoft-AI-Playbook?style=flat-square) |
+| 
 
 </details>
 
@@ -79,17 +78,6 @@ Other Projects:
 
 ### CPD:
 <a href="https://github.com/natnew/CPD/blob/master/README.md">Continuous Professional Development</a>
-
-### Github Stats:
-
-<a href="https://github.com/natnew">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnew&layout=compact&langs_count=8&theme=default" alt="Top Languages"/>
-</a>
-
-<a href="https://github.com/natnew">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=natnew&theme=default" alt="GitHub Streak"/>
-</a>
-
 
 
 <!--
