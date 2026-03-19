@@ -10,40 +10,16 @@
 
 I design and evaluate advanced AI systems for scientific reasoning, experimentation, and decision-making in complex, high-uncertainty research and engineering environments.
 
-## 🔬 What I Build
+## What I Am Building
 
-My work focuses on **agentic architectures** — multi-agent and self-evolving systems — using frontier models and tooling such as Gemini, OpenAI, and Claude, alongside modern orchestration frameworks. I build systems that reason with tools, collaborate, critique outcomes, and adapt over time under distributional shift.
-
-I am increasingly focused on **embodied and physical AI**, exploring how agentic reasoning extends beyond software into systems that perceive, act, and learn in the physical world.
-
-I treat **responsibility as a first-class systems constraint**, embedding safety, evaluation, and governance directly into architecture through Red Teaming and ethics-by-design.
-
-My focus is **AI as scientific infrastructure**: robust, transparent systems designed to operate reliably at the frontier of capability.
-
----
-
-## 🛠️ Technical Focus
-
-**Frontier Models & Platforms**  
-Gemini · OpenAI · Claude · MCP 
-
-**Agent Orchestration**  
-LangGraph · CrewAI · AutoGen · Semantic Kernel · ADK
-
-**Safety, Evaluation & Governance**  
-Red Teaming · Guardrails AI · NeMo Guardrails · Inspect AI 
-
-**Embodied & Physical AI**  
-Robotics simulation · Sensor fusion · Real-world deployment patterns
-
-**Core Stack**  
-Python · PyTorch · TensorFlow · Scikit-learn · Pandas
-
----
-
-## 🚀 Featured Projects
-
-*Coming soon — end-to-end AI projects demonstrating agentic systems for scientific reasoning and experimentation.*
+- Production-grade AI security and safety triage systems for structured review, risk analysis, and operational follow-through.
+- Autonomous research design systems that transform hypotheses into rigorous, preregistration-ready study protocols.
+- Interleaved multimodal pipelines that turn spoken narratives into coherent visual and cinematic artefacts.
+- AI incident-response platforms for outage investigation, runbook retrieval, root-cause analysis, remediation support, and postmortem drafting.
+- Interoperable healthcare agent systems spanning clinical workflows, protocol exchange, and standards-based integration.
+- Closed-loop reasoning optimisation systems that diagnose, repair, and enforce structured problem-solving behaviour in language models.
+- Task-driven cognitive benchmarks that isolate reasoning capabilities, failure modes, and adaptation under controlled conditions.
+- Location-aware urban intelligence systems that model places, movement, and real-world context for decision support and experience design.
 
 ---
 
