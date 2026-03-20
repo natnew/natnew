@@ -33,6 +33,7 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 | [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Generative-AI?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
 | [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-scientists?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
 | [Awesome-Physical-AI](https://github.com/natnew/awesome-physical-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Stars](https://img.shields.io/github/stars/natnew/awesome-physical-ai?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-physical-ai?style=flat-square) |
+| [Awesome-Agentic-Engineering](https://github.com/natnew/Awesome-Agentic-Engineering) | A curated collection of agentic engineering resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Agentic-Engineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Agentic-Engineering?style=flat-square) |
 
 
 </details>
