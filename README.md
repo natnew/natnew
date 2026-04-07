@@ -64,6 +64,12 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
   </tbody>
 </table>
 
+<p>
+  <img src="static/Prompt%20Engineering%20AI_%20Third%20Edition.png" width="120" align="left" hspace="12" alt="Prompt Engineering AI, Third Edition cover" />
+  My book, Prompt Engineering AI, was among the earliest prompt engineering books released in early 2023 and is now in its third edition.
+</p>
+<br clear="left" />
+
 ---
 
 ### Projects Open for Contribution
