@@ -12,14 +12,57 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 
 ## What I Am Building
 
-- Production-grade AI security and safety triage systems for structured review, risk analysis, and operational follow-through.
-- Autonomous research design systems that transform hypotheses into rigorous, preregistration-ready study protocols.
-- Interleaved multimodal pipelines that turn spoken narratives into coherent visual and cinematic artefacts.
-- AI incident-response platforms for outage investigation, runbook retrieval, root-cause analysis, remediation support, and postmortem drafting.
-- Interoperable healthcare agent systems spanning clinical workflows, protocol exchange, and standards-based integration.
-- Closed-loop reasoning optimisation systems that diagnose, repair, and enforce structured problem-solving behaviour in language models.
-- Task-driven cognitive benchmarks that isolate reasoning capabilities, failure modes, and adaptation under controlled conditions.
-- Location-aware urban intelligence systems that model places, movement, and real-world context for decision support and experience design.
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stars</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI Security and Safety Triage</td>
+      <td>N/A</td>
+      <td>Production-grade AI security and safety triage systems for structured review, risk analysis, and operational follow-through.</td>
+    </tr>
+    <tr>
+      <td>Autonomous Research Design</td>
+      <td>N/A</td>
+      <td>Autonomous research design systems that transform hypotheses into rigorous, preregistration-ready study protocols.</td>
+    </tr>
+    <tr>
+      <td>Multimodal Narrative Pipelines</td>
+      <td>N/A</td>
+      <td>Interleaved multimodal pipelines that turn spoken narratives into coherent visual and cinematic artefacts.</td>
+    </tr>
+    <tr>
+      <td>AI Incident Response</td>
+      <td>N/A</td>
+      <td>AI incident-response platforms for outage investigation, runbook retrieval, root-cause analysis, remediation support, and postmortem drafting.</td>
+    </tr>
+    <tr>
+      <td>Healthcare Agent Interoperability</td>
+      <td>N/A</td>
+      <td>Interoperable healthcare agent systems spanning clinical workflows, protocol exchange, and standards-based integration.</td>
+    </tr>
+    <tr>
+      <td>Reasoning Optimisation Systems</td>
+      <td>N/A</td>
+      <td>Closed-loop reasoning optimisation systems that diagnose, repair, and enforce structured problem-solving behaviour in language models.</td>
+    </tr>
+    <tr>
+      <td>Cognitive Benchmarking</td>
+      <td>N/A</td>
+      <td>Task-driven cognitive benchmarks that isolate reasoning capabilities, failure modes, and adaptation under controlled conditions.</td>
+    </tr>
+    <tr>
+      <td>Urban Intelligence Systems</td>
+      <td>N/A</td>
+      <td>Location-aware urban intelligence systems that model places, movement, and real-world context for decision support and experience design.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
