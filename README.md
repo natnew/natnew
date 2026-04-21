@@ -66,7 +66,7 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 
 <p>
   <img src="static/Prompt%20Engineering%20AI_%20Third%20Edition.png" width="120" align="left" hspace="12" alt="Prompt Engineering AI, Third Edition cover" />
-  My book, Prompt Engineering AI, was among the earliest prompt engineering books released in early 2023 and is now in its third edition.
+  My book, Prompt Engineering AI, was among the earlier books published on prompt engineering in early 2023. Now in its third edition, it reflects how the discipline has expanded from prompting alone to include context engineering, agentic AI, and skills- and CLI-based operating models.
 </p>
 <br clear="left" />
 
