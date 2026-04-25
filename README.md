@@ -67,13 +67,13 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 <details open>
   <summary> 🔦 Contributors Welcome: </summary>
 
-| Repository | Description | Forks |
-|------------|-------------|-------|
-| [Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) | A curated collection of prompt engineering resources | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Prompt-Engineering?style=flat-square) |
-| [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
-| [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
-| [Awesome-Physical-AI](https://github.com/natnew/awesome-physical-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Forks](https://img.shields.io/github/forks/natnew/awesome-physical-ai?style=flat-square) |
-| [Awesome-Agentic-Engineering](https://github.com/natnew/Awesome-Agentic-Engineering) | A curated collection of agentic engineering resources | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Agentic-Engineering?style=flat-square) |
+| Repository | Description | Stars | Forks |
+|------------|-------------|-------|-------|
+| [Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) | A curated collection of prompt engineering resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Prompt-Engineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Prompt-Engineering?style=flat-square) |
+| [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Generative-AI?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
+| [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-scientists?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
+| [Awesome-Physical-AI](https://github.com/natnew/awesome-physical-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Stars](https://img.shields.io/github/stars/natnew/awesome-physical-ai?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-physical-ai?style=flat-square) |
+| [Awesome-Agentic-Engineering](https://github.com/natnew/Awesome-Agentic-Engineering) | A curated collection of agentic engineering resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Agentic-Engineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Agentic-Engineering?style=flat-square) |
 
 
 </details>
@@ -107,11 +107,9 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<img src="https://skillicons.dev/icons?i=docker,java,matlab,mysql,pandas,python,pytorch,sklearn,tensorflow&perrow=10" alt="Languages and Tools" />
 
-### CPD:
-<a href="https://github.com/natnew/CPD/blob/master/README.md">Continuous Professional Development</a>
 
 
 <!--
