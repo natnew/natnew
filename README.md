@@ -10,55 +10,46 @@
 
 I design and evaluate advanced AI systems for scientific reasoning, experimentation, and decision-making in complex, high-uncertainty research and engineering environments.
 
-## What I Am Building
+## Selected Work
 
 <table>
   <thead>
     <tr>
       <th>Project</th>
-      <th>Stars</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>AI Security and Safety Triage</td>
-      <td>N/A</td>
       <td>Production-grade AI security and safety triage systems for structured review, risk analysis, and operational follow-through.</td>
     </tr>
     <tr>
       <td>Autonomous Research Design</td>
-      <td>N/A</td>
       <td>Autonomous research design systems that transform hypotheses into rigorous, preregistration-ready study protocols.</td>
     </tr>
     <tr>
       <td>Multimodal Narrative Pipelines</td>
-      <td>N/A</td>
       <td>Interleaved multimodal pipelines that turn spoken narratives into coherent visual and cinematic artefacts.</td>
     </tr>
     <tr>
       <td>AI Incident Response</td>
-      <td>N/A</td>
       <td>AI incident-response platforms for outage investigation, runbook retrieval, root-cause analysis, remediation support, and postmortem drafting.</td>
     </tr>
     <tr>
       <td>Healthcare Agent Interoperability</td>
-      <td>N/A</td>
       <td>Interoperable healthcare agent systems spanning clinical workflows, protocol exchange, and standards-based integration.</td>
     </tr>
     <tr>
       <td>Reasoning Optimisation Systems</td>
-      <td>N/A</td>
       <td>Closed-loop reasoning optimisation systems that diagnose, repair, and enforce structured problem-solving behaviour in language models.</td>
     </tr>
     <tr>
       <td>Cognitive Benchmarking</td>
-      <td>N/A</td>
       <td>Task-driven cognitive benchmarks that isolate reasoning capabilities, failure modes, and adaptation under controlled conditions.</td>
     </tr>
     <tr>
       <td>Urban Intelligence Systems</td>
-      <td>N/A</td>
       <td>Location-aware urban intelligence systems that model places, movement, and real-world context for decision support and experience design.</td>
     </tr>
   </tbody>
@@ -76,21 +67,16 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 <details open>
   <summary> 🔦 Contributors Welcome: </summary>
 
-| Repository | Description | Stars | Forks |
-|------------|-------------|-------|-------|
-| [Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) | A curated collection of prompt engineering resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Prompt-Engineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Prompt-Engineering?style=flat-square) |
-| [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Generative-AI?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
-| [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-scientists?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
-| [Awesome-Physical-AI](https://github.com/natnew/awesome-physical-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Stars](https://img.shields.io/github/stars/natnew/awesome-physical-ai?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-physical-ai?style=flat-square) |
-| [Awesome-Agentic-Engineering](https://github.com/natnew/Awesome-Agentic-Engineering) | A curated collection of agentic engineering resources | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Agentic-Engineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Agentic-Engineering?style=flat-square) |
+| Repository | Description | Forks |
+|------------|-------------|-------|
+| [Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering) | A curated collection of prompt engineering resources | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Prompt-Engineering?style=flat-square) |
+| [Awesome-Generative-AI](https://github.com/natnew/Awesome-Generative-AI) | A curated collection of generative AI resources | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Generative-AI?style=flat-square) |
+| [Awesome-AI-Scientists](https://github.com/natnew/awesome-ai-scientists) | Resources for building AI Scientist systems: literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-scientists?style=flat-square) |
+| [Awesome-Physical-AI](https://github.com/natnew/awesome-physical-ai) | A curated list of Robotics + AI resources for Physical AI / Embodied AI | ![Forks](https://img.shields.io/github/forks/natnew/awesome-physical-ai?style=flat-square) |
+| [Awesome-Agentic-Engineering](https://github.com/natnew/Awesome-Agentic-Engineering) | A curated collection of agentic engineering resources | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Agentic-Engineering?style=flat-square) |
 
 
 </details>
-
-
-Other Projects Open for Contribution:
-- [Prompt-engineering](https://prompt-engineering-strapp.streamlit.app/)
-- [Conspiracy Generator](https://conspiracy-generation.streamlit.app/)
 
 ### Find Me:
 <details open>
