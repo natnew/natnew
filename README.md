@@ -81,6 +81,21 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
 
 </details>
 
+### Specialist Research Collections
+<details>
+  <summary> 🔦 Research Maps & Curated Collections: </summary>
+
+| Repository | Description | Stars | Forks |
+|------------|-------------|-------|-------|
+| [awesome-ai-for-bioengineering](https://github.com/natnew/awesome-ai-for-bioengineering) | A curated list of high-quality resources on AI for bioengineering, including biological foundation models, protein design, molecular generation, self-driving laboratories, datasets, benchmarks, tooling, and responsible release practices. | ![Stars](https://img.shields.io/github/stars/natnew/awesome-ai-for-bioengineering?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-ai-for-bioengineering?style=flat-square) |
+| [Awesome-Multi-Agent-AI-Safety](https://github.com/natnew/Awesome-Multi-Agent-AI-Safety) | A curated, technically rigorous list of research, infrastructure, testbeds, and tools for securing systems of interacting AI agents. | ![Stars](https://img.shields.io/github/stars/natnew/Awesome-Multi-Agent-AI-Safety?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/Awesome-Multi-Agent-AI-Safety?style=flat-square) |
+| [awesome-recursive-language-models](https://github.com/natnew/awesome-recursive-language-models) | A curated map of recursive language models, recursive inference, recursive reasoning architectures, and self-calling AI systems. | ![Stars](https://img.shields.io/github/stars/natnew/awesome-recursive-language-models?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-recursive-language-models?style=flat-square) |
+| [awesome-recursive-self-improvement](https://github.com/natnew/awesome-recursive-self-improvement) | A curated list of recent AI resources on recursive self-improvement, self-evolving agents, test-time adaptation, experience learning, self-refinement, and governed AI improvement loops. | ![Stars](https://img.shields.io/github/stars/natnew/awesome-recursive-self-improvement?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-recursive-self-improvement?style=flat-square) |
+| [awesome-rl-for-agents](https://github.com/natnew/awesome-rl-for-agents) | A curated map of reinforcement learning for agents: systems that learn through interaction with environments, tools, APIs, users, other agents or the physical world. | ![Stars](https://img.shields.io/github/stars/natnew/awesome-rl-for-agents?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-rl-for-agents?style=flat-square) |
+| [awesome-simulation-engines-for-social-science](https://github.com/natnew/awesome-simulation-engines-for-social-science) | A research map for learned social simulation engines: methods, tools, datasets, and evaluation practices for modelling bounded social systems under intervention. | ![Stars](https://img.shields.io/github/stars/natnew/awesome-simulation-engines-for-social-science?style=flat-square) | ![Forks](https://img.shields.io/github/forks/natnew/awesome-simulation-engines-for-social-science?style=flat-square) |
+
+</details>
+
 ### Find Me:
 <details open>
   <summary> 🔦 Profiles: </summary>
