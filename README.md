@@ -1,6 +1,7 @@
 
-
-[![](https://raw.githubusercontent.com/natnew/natnew/main/chat.svg)](https://twitter.com/natashanewbold)
+<p align="center">
+  <img src="./assets/little-westminster.gif" width="100%" alt="Little Westminster" />
+</p>
 
 
 ### Hi, I'm Natasha 👋
