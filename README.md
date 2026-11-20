@@ -102,22 +102,10 @@ I design and evaluate advanced AI systems for scientific reasoning, experimentat
      <tr>
        <td> <a href="https://www.linkedin.com/in/natasha-newbold/"> Linkedin </a></td>
        <td> <a href="https://medium.com/@natashanewbold"> Medium </a></td>
-       <td> <a href="https://stackoverflow.com/users/18646307/natasha?tab=profile"> Stack Overflow </a></td>
-       <td> <a href="https://leetcode.com/NatNew91/"> Leetcode </a></td>
-       <td> <a href="https://www.freecodecamp.org/natasha"> FreeCodeCamp </a></td>
-       <td> <a href="https://app.datacamp.com/portfolio/natashanewboldlondon"> DataCamp </a></td>
-       <td> <a href="https://codepen.io/NAT91"> CodePen </a></td>
-       <td> <a href="https://www.kaggle.com/natashalondon"> Kaggle </a></td>
      </tr>
      <tr>
 <td><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><br></td>
 <td><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><br></td>
-<td><img alt="Static Badge" src="https://img.shields.io/badge/Stackoverflow%20-%20orange"><br></td>
-<td><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode%20-%20darkorange"><br></td>
-<td><img alt="Static Badge" src="https://img.shields.io/badge/FreeCodeCamp%20-%20darkblue"><br></td>
-<td><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp%20-%20darkgreen"><br></td>
-<td><img alt="Static Badge" src="https://img.shields.io/badge/CodePen%20-%20black"><br></td>
-<td><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle%20-%20lightblue"><br></td>
      </tr>
   </table>
 </details>
