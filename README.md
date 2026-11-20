@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/little-westminster.gif" width="100%" alt="Little Westminster" />
+  <img src="./assets/arch_hero_01.gif" width="100%" alt="Little Westminster" />
 </p>
 
 
